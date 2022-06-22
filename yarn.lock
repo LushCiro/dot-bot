@@ -96,6 +96,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@hazmi35/eslint-config@^3.3.0":
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/@hazmi35/eslint-config/-/eslint-config-3.6.0.tgz#0c5ace355d82f129f483fb825cff26ee0ede561b"
+  integrity sha512-IThLzFl74EkGjcrSMK0k7WqU9J9m7GQyzAjYJcNnfsQ/w3AuWlbck6SkKbYkTnfGUzJ3EGjNaX2r3WusVbmhkw==
+
 "@hazmi35/eslint-config@^3.4.0":
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/@hazmi35/eslint-config/-/eslint-config-3.4.0.tgz#279870615a2e939f415105db6382458395e0627a"
@@ -336,9 +341,9 @@ astral-regex@^1.0.0:
   integrity sha512-+Ryf6g3BKoRc7jfp7ad8tM4TtMiaWvbF/1/sQcZPkkS7ag3D5nMBCe2UfOTONtAkaG0tO0ij3C5Lwmf1EiyjHg==
 
 async@^3.1.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/async/-/async-3.2.0.tgz#b3a2685c5ebb641d3de02d161002c60fc9f85720"
-  integrity sha512-TR2mEZFVOj2pLStYxLht7TyfuRzaydfpxr3k9RpHIzMgw7A64dzsdqCxH1WJyQdoe8T10nDXd9wnEigmiuHIZw==
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-3.2.4.tgz#2d22e00f8cddeb5fde5dd33522b56d1cf569a81c"
+  integrity sha512-iAB+JbDEGXhyIUavoDl9WP/Jj106Kz9DEn1DPgYw5ruDn0e3Wgi3sKFm55sASdGBNOQB8F59d9qQ7deqrHA8wQ==
 
 asynckit@^0.4.0:
   version "0.4.0"
